@@ -16,3 +16,13 @@ Deepfake technology is increasingly being used for malicious purposes such as mi
 ```bash
 git clone https://github.com/your-username/deepfake-guard.git
 cd deepfake-guard/tool/source_code
+# DeepFakeGuard
+
+DeepFakeGuard is a Streamlit-based tool for detecting whether an uploaded image is real or a deepfake.
+
+## 🔧 How to Run
+
+1. Install dependencies:
+
+```bash
+pip install -r requirements.txt
