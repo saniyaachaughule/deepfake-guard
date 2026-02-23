@@ -14,7 +14,7 @@ Deepfake technology is increasingly being used for malicious purposes such as mi
 ## Setup Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/deepfake-guard.git
+git clone {https://github.com/saniyaachaughule/deepfake-guard.git)
 cd deepfake-guard/tool/source_code
 # DeepFakeGuard
 
